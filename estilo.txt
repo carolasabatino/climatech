@@ -1,0 +1,2267 @@
+/* principal narrow (ESTRUCTURA) */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px 0px 120px;
+
+position: relative;
+width: 360px;
+height: 800px;
+
+background: #F3FEF8;
+
+
+/* navbar */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+isolation: isolate;
+
+width: 360px;
+height: 119px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+margin: -205px 0px;
+
+
+/* icono hackathon 1 */
+
+position: absolute;
+width: 76px;
+height: 78px;
+left: calc(50% - 76px/2);
+top: calc(50% - 78px/2 - 14.5px);
+
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 37.16%;
+right: 14.38%;
+top: 39.68%;
+bottom: 14.55%;
+
+background: #23496E;
+
+
+/* Group */
+
+position: absolute;
+left: 36.78%;
+right: 8.48%;
+top: 39.86%;
+bottom: 14.4%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 36.78%;
+right: 62.92%;
+top: 85.5%;
+bottom: 14.4%;
+
+background: #5B8DA7;
+
+
+/* Vector */
+
+position: absolute;
+left: 51.4%;
+right: 14.5%;
+top: 39.86%;
+bottom: 20.22%;
+
+background: #5B8DA7;
+
+
+/* Vector */
+
+position: absolute;
+left: 40.57%;
+right: 8.48%;
+top: 41.23%;
+bottom: 14.4%;
+
+background: #5B8DA7;
+
+
+/* Vector */
+
+position: absolute;
+left: 14.38%;
+right: 37.16%;
+top: 14.55%;
+bottom: 39.68%;
+
+background: #23496E;
+
+
+/* Group */
+
+position: absolute;
+left: 8.48%;
+right: 36.78%;
+top: 14.4%;
+bottom: 39.86%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 62.92%;
+right: 36.78%;
+top: 14.4%;
+bottom: 85.5%;
+
+background: #5B8DA7;
+
+
+/* Vector */
+
+position: absolute;
+left: 14.5%;
+right: 64.15%;
+top: 25.29%;
+bottom: 39.86%;
+
+background: #5B8DA7;
+
+
+/* Vector */
+
+position: absolute;
+left: 35.85%;
+right: 37.16%;
+top: 14.55%;
+bottom: 74.71%;
+
+background: #5B8DA7;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.48%;
+right: 40.57%;
+top: 14.4%;
+bottom: 41.23%;
+
+background: #5B8DA7;
+
+
+/* Vector */
+
+position: absolute;
+left: 35.92%;
+right: 37.63%;
+top: 32.08%;
+bottom: 32.06%;
+
+background: #218E7B;
+
+
+/* Vector */
+
+position: absolute;
+width: 46px;
+height: 57px;
+left: 1362px;
+top: 30px;
+
+background: #23496E;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* _2 */
+
+position: absolute;
+width: 134px;
+height: 20px;
+left: calc(50% - 134px/2);
+top: 83px;
+
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Group */
+
+position: absolute;
+width: 125.23px;
+left: calc(50% - 125.23px/2 - 0.38px);
+top: 0%;
+bottom: 0%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 55.22%;
+right: 3.56%;
+top: 6.05%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 55.22%;
+right: 34.37%;
+top: 6.05%;
+bottom: 1.83%;
+
+background: #23496E;
+
+
+/* Vector */
+
+position: absolute;
+left: 64.62%;
+right: 24.99%;
+top: 30.53%;
+bottom: 0%;
+
+background: #23496E;
+
+
+/* Vector */
+
+position: absolute;
+left: 75.9%;
+right: 14.3%;
+top: 30.53%;
+bottom: 0%;
+
+background: #23496E;
+
+
+/* Vector */
+
+position: absolute;
+left: 86.75%;
+right: 3.56%;
+top: 6.05%;
+bottom: 1.85%;
+
+background: #23496E;
+
+
+/* Group */
+
+position: absolute;
+left: 2.99%;
+right: 44.91%;
+top: 0%;
+bottom: 1.69%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 2.99%;
+right: 83.77%;
+top: 2.24%;
+bottom: 1.69%;
+
+background: #23496E;
+
+
+/* Vector */
+
+position: absolute;
+left: 17.54%;
+right: 79.17%;
+top: 0.27%;
+bottom: 3.68%;
+
+background: #23496E;
+
+
+/* Vector */
+
+position: absolute;
+left: 22.48%;
+right: 73.72%;
+top: 0%;
+bottom: 3.68%;
+
+background: #23496E;
+
+
+/* Vector */
+
+position: absolute;
+left: 27.92%;
+right: 56.97%;
+top: 28.68%;
+bottom: 3.69%;
+
+background: #23496E;
+
+
+/* Vector */
+
+position: absolute;
+left: 44.32%;
+right: 44.91%;
+top: 28.7%;
+bottom: 1.83%;
+
+background: #23496E;
+
+
+/* Group 33 */
+
+width: 360px;
+height: 483px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+margin: -205px 0px;
+
+
+/* Group 31 */
+
+position: absolute;
+width: 360px;
+height: 479.36px;
+left: 0px;
+top: 115px;
+
+
+
+/* Rectangle 26 */
+
+position: absolute;
+width: 360px;
+height: 479.19px;
+left: 0px;
+top: 115px;
+
+background: #C8E8E2;
+
+
+/* Mask group */
+
+position: absolute;
+width: 360px;
+height: 479.19px;
+left: 0px;
+top: 115.17px;
+
+
+
+/* Rectangle 26 */
+
+position: absolute;
+width: 360px;
+height: 479.19px;
+left: 0px;
+top: 115.17px;
+
+background: #D9D9D9;
+
+
+/* fondo soy de pagina 1 */
+
+position: absolute;
+width: 618.46px;
+height: 1218px;
+left: -93.23px;
+top: 17px;
+
+background: url(fondo soy de pagina.png);
+opacity: 0.66;
+
+
+/* pattern 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 80px 0px 0px;
+gap: 23px;
+isolation: isolate;
+
+position: absolute;
+width: 360px;
+height: 483px;
+left: 0px;
+top: 115px;
+
+
+
+/* Soy de... */
+
+width: 248px;
+height: 39px;
+
+font-family: 'Gilroy-SemiBold';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* ciudad */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 10px 23px;
+gap: 10px;
+isolation: isolate;
+
+width: 264px;
+height: 40px;
+
+background: #F3FEF8;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 17px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Escoja su ciudad */
+
+width: 171px;
+height: 17px;
+
+font-family: 'Gilroy-SemiBold';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+display: flex;
+align-items: center;
+
+color: #9D9A9A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* drop down */
+
+position: absolute;
+width: 26px;
+height: 19.2px;
+left: 210px;
+top: 10px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 26px;
+left: 210px;
+top: 25%;
+bottom: 27%;
+
+background: #23496E;
+border-radius: 6px;
+
+
+/* flecha */
+
+position: absolute;
+width: 8px;
+left: 219px;
+top: 41%;
+bottom: 43%;
+
+background: #FFFFFF;
+border: 1px solid #FFFFFF;
+
+
+/* Frame 9 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 360px;
+height: 230px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+z-index: 2;
+
+
+/* mapa */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 22px 36px;
+gap: 10px;
+
+width: 134px;
+height: 59px;
+
+background: #F3FEF8;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+width: 28px;
+height: 28px;
+
+background: #218E7B;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Mapa */
+
+width: 54px;
+height: 25px;
+
+font-family: 'Gilroy-SemiBold';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* info */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 22px 36px;
+gap: 10px;
+
+width: 134px;
+height: 59px;
+
+background: #F3FEF8;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+width: 32px;
+height: 31px;
+
+background: #218E7B;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 31 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+
+width: 52px;
+height: 43px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Últimas */
+
+width: 38px;
+height: 13px;
+
+font-family: 'Gilroy-SemiBold';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 13px;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: -1px 0px;
+
+
+/* 24 HS */
+
+width: 52px;
+height: 25px;
+
+font-family: 'Gilroy-SemiBold';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* info */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 22px 36px 22px 23px;
+gap: 10px;
+
+width: 134px;
+height: 59px;
+
+background: #F3FEF8;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Group 19 */
+
+width: 29px;
+height: 29px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 17.16%;
+right: 61.19%;
+top: 25.42%;
+bottom: 25.42%;
+
+background: #218E7B;
+
+
+/* Vector */
+
+position: absolute;
+left: 26.38%;
+right: 70.95%;
+top: 35.83%;
+bottom: 58.56%;
+
+background: #218E7B;
+
+
+/* Vector */
+
+position: absolute;
+left: 26.08%;
+right: 70.2%;
+top: 44.07%;
+bottom: 36.13%;
+
+background: #218E7B;
+
+
+/* Info */
+
+width: 35px;
+height: 25px;
+
+font-family: 'Gilroy-SemiBold';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+width: 46px;
+height: 57px;
+right: 40px;
+top: calc(50% - 57px/2 + 170px);
+
+background: #23496E;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Rectangle 11 */
+
+width: 1183px;
+height: 4px;
+
+background: #D9D9D9;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+margin: -205px 0px;
+
+
+/* Frame 28 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 33px 0px 45px;
+gap: 6px;
+isolation: isolate;
+
+width: 360px;
+height: 514px;
+
+background: rgba(33, 142, 123, 0.05);
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+margin: -205px 0px;
+
+
+/* Frame 30 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 343px;
+height: 54px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* MAPA */
+
+width: 343px;
+height: 18px;
+
+font-family: 'Gilroy-SemiBold';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+letter-spacing: 0.02em;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* (SELECCIONE SU LOCALIDAD) */
+
+width: 242px;
+height: 25px;
+
+font-family: 'Gilroy-SemiBold';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+text-align: center;
+
+color: #8E8E8E;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 29 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 322px;
+height: 294px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* mapa */
+
+width: 322px;
+height: 294px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 12 */
+
+position: absolute;
+width: 290px;
+height: 294px;
+right: 16px;
+top: 0px;
+
+background: #D9D9D9;
+
+
+/* image 3 */
+
+position: absolute;
+width: 601px;
+height: 431px;
+left: -105px;
+top: -33px;
+
+background: url(image.png);
+
+
+/* Frame 26 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content: center;
+align-items: center;
+align-content: center;
+padding: 0px;
+gap: 10px 11px;
+
+position: absolute;
+width: 36px;
+height: 34px;
+right: 30px;
+top: calc(50% - 34px/2 + 118px);
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+
+
+/* Group 28 */
+
+width: 16px;
+height: 15.44px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+width: 4.93px;
+height: 4.93px;
+left: 10px;
+top: 9.28px;
+
+border: 2px solid #000000;
+
+
+/* Vector */
+
+position: absolute;
+width: 4.93px;
+height: 4.93px;
+left: 21.07px;
+top: 9.28px;
+
+border: 2px solid #000000;
+
+
+/* Vector */
+
+position: absolute;
+width: 4.93px;
+height: 4.93px;
+left: 10px;
+top: 19.79px;
+
+border: 2px solid #000000;
+
+
+/* Vector */
+
+position: absolute;
+width: 4.93px;
+height: 4.93px;
+left: 21.07px;
+top: 19.79px;
+
+border: 2px solid #000000;
+
+
+/* timeline */
+
+width: 331px;
+height: 101px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Frame 7 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+position: absolute;
+width: 331px;
+height: 55px;
+left: 14.5px;
+top: 393px;
+
+
+
+/* Frame 9 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 2px;
+
+width: 70px;
+height: 34px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 20 */
+
+width: 35px;
+height: 34px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 18 */
+
+position: absolute;
+width: 35px;
+height: 34px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+border-radius: 14px;
+
+
+/* Vector */
+
+position: absolute;
+left: 21.43%;
+right: 71.43%;
+top: 35.29%;
+bottom: 29.41%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 14.29%;
+right: 64.29%;
+top: 14.71%;
+bottom: 14.71%;
+
+background: #000000;
+
+
+/* 0º */
+
+width: 22px;
+height: 25px;
+
+font-family: 'Gilroy-SemiBold';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 10 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 2px;
+
+width: 70px;
+height: 34px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Group 20 */
+
+width: 35px;
+height: 34px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 18 */
+
+position: absolute;
+width: 35px;
+height: 34px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+border-radius: 14px;
+
+
+/* Group 21 */
+
+position: absolute;
+width: 23.87px;
+height: 18.75px;
+left: 5.83px;
+top: 7.3px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.32%;
+right: 57.57%;
+top: 31.64%;
+bottom: 47.49%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 10.33%;
+right: 66.06%;
+top: 55.74%;
+bottom: 23.39%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.28%;
+right: 70.86%;
+top: 21.46%;
+bottom: 57.67%;
+
+background: #000000;
+
+
+/* 0º */
+
+width: 22px;
+height: 25px;
+
+font-family: 'Gilroy-SemiBold';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 11 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 2px;
+
+width: 70px;
+height: 34px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Group 20 */
+
+width: 35px;
+height: 34px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 18 */
+
+position: absolute;
+width: 35px;
+height: 34px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+border-radius: 14px;
+
+
+/* Group 18 */
+
+position: absolute;
+width: 23.72px;
+height: 24.91px;
+left: 4.99px;
+top: 4.87px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 16.3%;
+right: 77.55%;
+top: 53.6%;
+bottom: 29.05%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 21.89%;
+right: 70.78%;
+top: 67.45%;
+bottom: 12.4%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 26.47%;
+right: 68.03%;
+top: 50.96%;
+bottom: 32.55%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 7.13%;
+right: 58.97%;
+top: 14.33%;
+bottom: 51.34%;
+
+background: #000000;
+
+
+/* 0º */
+
+width: 22px;
+height: 25px;
+
+font-family: 'Gilroy-SemiBold';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 13 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 2px;
+
+width: 70px;
+height: 34px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Group 20 */
+
+width: 35px;
+height: 34px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 18 */
+
+position: absolute;
+width: 35px;
+height: 34px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+border-radius: 14px;
+
+
+/* Group 18 */
+
+position: absolute;
+width: 18.78px;
+height: 25.68px;
+left: 8.22px;
+top: 4.2px;
+
+
+
+/* Group 15 */
+
+position: absolute;
+left: 11.74%;
+right: 61.43%;
+top: 12.34%;
+bottom: 12.12%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 11.74%;
+right: 61.43%;
+top: 12.34%;
+bottom: 12.12%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 20.49%;
+right: 76.48%;
+top: 51.08%;
+bottom: 42.69%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 17.63%;
+right: 67.16%;
+top: 51.95%;
+bottom: 23.49%;
+
+background: #000000;
+
+
+/* 0º */
+
+width: 22px;
+height: 25px;
+
+font-family: 'Gilroy-SemiBold';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* 24 DE NOVIEMBRE DE 2024 */
+
+position: absolute;
+width: 254.01px;
+height: 20px;
+left: calc(50% - 254.01px/2 + 0.01px);
+top: 474px;
+
+font-family: 'Gilroy-SemiBold';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Rectangle 27 */
+
+position: absolute;
+width: 272px;
+height: 12px;
+left: calc(50% - 272px/2);
+top: 454px;
+
+background: #D9D9D9;
+border-radius: 13px;
+
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 46px;
+top: 464px;
+
+background: #5B8DA7;
+transform: rotate(-90deg);
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Frame 27 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 34px 0px 5px;
+gap: 16px;
+
+width: 360px;
+height: 491px;
+
+border: 3px solid #E6E1E1;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 0;
+margin: -205px 0px;
+
+
+/* Frame 31 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 343px;
+height: 52px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* ÚLTIMAS 24 HORAS */
+
+width: 343px;
+height: 19px;
+
+font-family: 'Gilroy-SemiBold';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+letter-spacing: 0.02em;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* (SELECCIONE EL PARÁMETRO) */
+
+width: 242px;
+height: 25px;
+
+font-family: 'Gilroy-SemiBold';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+text-align: center;
+
+color: #8E8E8E;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 29 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 322px;
+height: 294px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* mapa */
+
+width: 322px;
+height: 294px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 12 */
+
+position: absolute;
+width: 290px;
+height: 294px;
+right: 16px;
+top: 0px;
+
+background: #D9D9D9;
+
+
+/* image 6 */
+
+position: absolute;
+width: 574px;
+height: 305px;
+left: 16px;
+top: -2px;
+
+background: url(image.png);
+
+
+/* Group 27 */
+
+position: absolute;
+width: 36px;
+height: 34px;
+left: 247px;
+top: 241px;
+
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+
+/* Frame 26 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content: center;
+align-items: center;
+align-content: center;
+padding: 0px;
+gap: 10px 11px;
+
+position: absolute;
+width: 36px;
+height: 34px;
+right: 39px;
+top: calc(50% - 34px/2 + 111px);
+
+background: #FFFFFF;
+border-radius: 20px;
+
+
+/* Group 28 */
+
+width: 16px;
+height: 15.44px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+width: 4.93px;
+height: 4.93px;
+left: 10px;
+top: 9.28px;
+
+border: 2px solid #000000;
+
+
+/* Vector */
+
+position: absolute;
+width: 4.93px;
+height: 4.93px;
+left: 21.07px;
+top: 9.28px;
+
+border: 2px solid #000000;
+
+
+/* Vector */
+
+position: absolute;
+width: 4.93px;
+height: 4.93px;
+left: 10px;
+top: 19.79px;
+
+border: 2px solid #000000;
+
+
+/* Vector */
+
+position: absolute;
+width: 4.93px;
+height: 4.93px;
+left: 21.07px;
+top: 19.79px;
+
+border: 2px solid #000000;
+
+
+/* Frame 10 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 190px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Frame 14 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 41px;
+height: 40px;
+
+background: #D9D9D9;
+border-radius: 15px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 30 */
+
+width: 12.77px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+width: 12.77px;
+height: 20px;
+left: 14.12px;
+top: 10px;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+width: 4.35px;
+height: 11.02px;
+right: 18.17px;
+top: calc(50% - 11.02px/2 + 0.87px);
+
+background: #000000;
+
+
+/* Frame 16 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 39px;
+height: 38px;
+
+background: #D9D9D9;
+border-radius: 15px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 15 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 40px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 13 */
+
+width: 20.67px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+width: 20.67px;
+height: 6.06px;
+right: 9.67px;
+top: calc(50% - 6.06px/2 - 2.02px);
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+width: 14.31px;
+height: 6.06px;
+right: 14.81px;
+top: calc(50% - 6.06px/2 + 4.97px);
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+width: 12.03px;
+height: 6.05px;
+right: 17.72px;
+top: calc(50% - 6.05px/2 - 4.97px);
+
+background: #000000;
+
+
+/* Frame 17 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 39px;
+height: 38px;
+
+background: #D9D9D9;
+border-radius: 15px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Group 17 */
+
+width: 19px;
+height: 19.67px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+width: 3.45px;
+height: 4.66px;
+right: 20.41px;
+top: calc(50% - 4.66px/2 + 3.04px);
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+width: 4.11px;
+height: 5.41px;
+right: 16.62px;
+top: calc(50% - 5.41px/2 + 7.13px);
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+width: 3.08px;
+height: 4.42px;
+right: 15.08px;
+top: calc(50% - 4.42px/2 + 2.21px);
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+width: 19px;
+height: 9.22px;
+right: 10px;
+top: calc(50% - 9.22px/2 - 5.22px);
+
+background: #000000;
+
+
+/* Frame 19 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 41px;
+height: 40px;
+
+background: #D9D9D9;
+border-radius: 15px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Group 15 */
+
+width: 15px;
+height: 19.64px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+width: 15px;
+height: 19.64px;
+right: 13px;
+top: calc(50% - 19.64px/2 + 0px);
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+width: 1.69px;
+height: 1.62px;
+right: 21.42px;
+top: calc(50% - 1.62px/2 + 1.06px);
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+width: 8.51px;
+height: 6.39px;
+right: 16.21px;
+top: calc(50% - 6.39px/2 + 3.67px);
+
+background: #000000;
+
+
+/* Frame 29 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 50px 0px 5px;
+gap: 11px;
+
+width: 360px;
+height: 699px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 30 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 5px;
+
+width: 343px;
+height: 63px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* INFO */
+
+width: 343px;
+height: 33px;
+
+font-family: 'Gilroy-SemiBold';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+text-align: center;
+letter-spacing: 0.02em;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* (SOBRE EL PROYECTO) */
+
+width: 200px;
+height: 25px;
+
+font-family: 'Gilroy-SemiBold';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+text-align: center;
+
+color: #8E8E8E;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* El proyecto tiene como objetivo desarrollar una solución creativa y funcional respecto a la recolección y visualización de datos ambientales, entre ellos temperatura, humedad y velocidad del viento. Fue realizado por estudiantes de diseño, informática y robótica de distintos paises del Mercosur: Argentina, Brasil, Uruguay y Paraguay */
+
+width: 270px;
+height: 199px;
+
+font-family: 'Gilroy-Light';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* (NUESTRO EQUIPO) */
+
+width: 200px;
+height: 25px;
+
+font-family: 'Gilroy-SemiBold';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+text-align: center;
+
+color: #8E8E8E;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Rectangle 28 */
+
+width: 265px;
+height: 146px;
+
+background: #D9D9D9;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* El proyecto tiene como objetivo desarrollar una solución creativa y funcional respecto a la recolección y visualización de datos ambientales, entre ellos temperatura, humedad y velocidad del viento. Fue realizado por estudiantes de diseño, informática y robótica de distintos paises del Mercosur: Argentina, Brasil, Uruguay y Paraguay */
+
+width: 270px;
+height: 199px;
+
+font-family: 'Gilroy-Light';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;

@@ -1,0 +1,101 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 33px 0px 45px;
+  gap: 6px;
+  isolation: isolate;
+
+  width: 360px;
+  height: 514px;
+  background: rgba(33, 142, 123, 0.05);
+}
+
+.container_bienvenida {
+  order: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0px;
+  gap: 8px;
+  width: 343px;
+  height: 54px;
+}
+
+.mapa {
+  width: 343px;
+  height: 18px;
+  font-family: 'Gilroy-SemiBold';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 25px;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #000000;
+}
+
+.localidad {
+  width: 242px;
+  height: 25px;
+  font-family: 'Gilroy-SemiBold';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+  color: #8E8E8E;
+}
+
+.container_mapa {
+  order: 2;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px;
+  gap: 10px;
+  width: 322px;
+  height: 294px;
+}
+
+.container_valores {
+  order: 3;
+  width: 331px;
+  height: 101px;
+  flex: none;
+  flex-grow: 0;
+  z-index: 2;
+}
+
+.valores {
+  font-family: 'Gilroy';
+  font-size: 16px;
+  font-weight: bold;
+  color: black;
+}
+
+.container_fecha {
+  order: 4;
+  width: 254.01px;
+  height: 20px;
+  font-family: 'Gilroy-SemiBold';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+  color: #000000;
+}
+
+.fecha {
+  font-family: 'Gilroy';
+  font-size: 16px;
+  font-weight: bold;
+  color: #000000;
+}
+
+.container_valores table,
+.container_fecha table {
+  width: 100%; /* Asegura que las tablas ocupen el ancho completo del contenedor */
+}
